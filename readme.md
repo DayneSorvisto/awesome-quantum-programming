@@ -37,9 +37,6 @@
 ## Overview
 - [Quantum Algorithms Overview](https://en.wikipedia.org/wiki/Quantum_algorithm): A comprehensive introduction to quantum algorithms, covering fundamental concepts and their applications.
 
-## Complexity
-- [Quantum Complexity](https://en.wikipedia.org/wiki/Quantum_complexity_theory): Dive into the theory of quantum complexity to understand the efficiency of quantum algorithms compared to classical algorithms.
-
 ## Search Algorithms
 - [Grover's Algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm): Learn about Grover's algorithm, a quantum algorithm for unstructured search that provides a quadratic speedup over classical algorithms.
 
@@ -64,9 +61,10 @@
 ## Combinatorial Optimization
 - [Quantum Approximate Optimization Algorithm (QAOA)](https://en.wikipedia.org/wiki/Quantum_approximate_optimization_algorithm): Explore QAOA, a quantum algorithm designed for combinatorial optimization problems, with applications in various fields.
 
-Feel free to customize the links or add additional information as needed for your GitHub Awesome Guide!
-</details>
+## Quantum Complexity
+- [BQP Complexity Class](https://en.wikipedia.org/wiki/BQP): Learn about the Bounded-error Quantum Polynomial time (BQP) complexity class, which characterizes problems efficiently solvable by a quantum computer.
 
+</details>
 
 ## Quantum Programming Frameworks and Languages
 
@@ -264,6 +262,7 @@ Feel free to customize the links or add additional information as needed for you
 - [Quantum Computing Stack Exchange](https://quantum.stackexchange.com/)
 - [Qiskit Community Forum](https://quantumcomputing.stackexchange.com/)
 </details>
+
 
 ## Books for Learning Quantum Programming
 

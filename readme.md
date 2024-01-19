@@ -6,6 +6,8 @@
 
 ## Contents
 
+# Table of Contents
+
 - [Introduction to Quantum Computing](#introduction-to-quantum-computing)
 - [Quantum Programming Basics](#quantum-programming-basics)
 - [Quantum Algorithms](#quantum-algorithms)
@@ -21,6 +23,7 @@
 - [Community and Forums](#community-and-forums)
 - [Online Courses](#online-courses)
 - [Research Papers](#research-papers)
+
 
 ## Quantum Programming Basics
 

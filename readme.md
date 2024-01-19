@@ -2,7 +2,7 @@
 
 ![Quantum Programming](quantum_programming.png)
 
-> An up-to-date and meticulously curated collection of exceptional quantum programming algorithms, complexity analysis, hackathons, programming tutorials, programming books, and various resources tailored for quantum programmers to learn to build and interface with quantum software and track the latest quantum algorithms and programming techniques.
+> An up-to-date and meticulously curated collection of exceptional quantum programming algorithms, complexity analysis, hackathons, programming tutorials, programming books, and various resources tailored for quantum programmers to learn to build and interface with quantum software as well as track new quantum algorithms and programming techniques.
 
 > [![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername/awesome-quantum-programming.svg)](https://github.com/YourGitHubUsername/awesome-quantum-programming/stargazers)

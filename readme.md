@@ -1,4 +1,4 @@
-# Awesome Quantum Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Quantum Programming[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Quantum Programming](quantum_programming.png)
 

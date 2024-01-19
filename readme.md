@@ -1,10 +1,8 @@
-# awesome-quantum-programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Quantum Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Quantum programming. A comprehensive list of free resources](quantum_programming.png)
+![Quantum Programming](quantum_programming.png)
 
-> A curated list of awesome quantum programming algorithms, hackathons, tutorials, books, articles, and other resources for quantum programmers
-
-## Contents
+> A meticulously curated collection of exceptional quantum programming algorithms, hackathons, tutorials, books, articles, and various resources tailored for quantum programmers.
 
 # Table of Contents
 
@@ -17,15 +15,11 @@
 - [Quantum Programming Hackathons](#quantum-programming-hackathons)
 - [Books for Learning Quantum Programming](#books-for-learning-quantum-programming)
 - [Articles and Blogs](#articles-and-blogs)
-- [IDEs for Quantum Programming](#ides-for-quantum-programming)
 - [Quantum Programming Simulators](#quantum-programming-simulators)
 - [Hands-On Exercises](#hands-on-exercises)
 - [Community and Forums](#community-and-forums)
 - [Online Courses](#online-courses)
 - [Research Papers](#research-papers)
-
-
-## Quantum Programming Basics
 
 ## Introduction to Quantum Computing
 

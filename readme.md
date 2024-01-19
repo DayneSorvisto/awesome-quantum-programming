@@ -1,4 +1,4 @@
-# Awesome Quantum Programming[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Quantum Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A meticulously curated collection of exceptional quantum programming algorithms, hackathons, tutorials, books, articles, and various resources tailored for quantum programmers.
 

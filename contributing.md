@@ -1,25 +1,21 @@
+# Purpose and Goal
+This list aims to provide an overview of the best resources for quantum programming. Someone out of touch or unfamiliar with quantum programming should be able to look at this list and find:
+- Starting points to explore from and resources to consume.
+- The best tools and packages to work with.
+- The most up-to-date resources and guides.
+
+Because of this goal, contributions from the community are welcomed and wanted!
+
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
-
----
-
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+When making a **pull request**, please make sure to:
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make a separate pull request for each suggestion.
+- Include a link to the resource and briefly describe what it is and why it should be included.
+- Add new categories or improve existing categorization when appropriate.
+- Within categories, please ensure link names are in alphabetical order.
+- Have your description:
+  - Be short and simple, descriptive but not pitchy or promotional.
+  - Follow this format: `[name](link) - Description.`
+  - Start with a capital and end with a full stop/period; no trailing whitespace.
+  - Checked for spelling and grammar.

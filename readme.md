@@ -6,22 +6,18 @@
 
 # Table of Contents
 
-- [Introduction to Quantum Computing](#introduction-to-quantum-computing)
-- [Quantum Programming Basics](#quantum-programming-basics)
-- [Quantum Algorithms](#quantum-algorithms)
-  - [Quantum Complexity](#quantum-complexity)
-- [Quantum Programming Languages](#quantum-programming-languages)
-- [Quantum Programming Tutorials](#quantum-programming-tutorials)
-- [Quantum Programming Hackathons](#quantum-programming-hackathons)
-- [Books for Learning Quantum Programming](#books-for-learning-quantum-programming)
-- [Articles and Blogs](#articles-and-blogs)
-- [Quantum Programming Simulators](#quantum-programming-simulators)
-- [Hands-On Exercises](#hands-on-exercises)
-- [Community and Forums](#community-and-forums)
-- [Online Courses](#online-courses)
-- [Research Papers](#research-papers)
+# Table of Contents
+| <!-- -->                                 | <!-- -->                                             |
+| ---------------------------------------- | ---------------------------------------------------- |
+| [Introduction to Quantum Computing](#introduction-to-quantum-computing) | [Quantum Programming Basics](#quantum-programming-basics) |
+| [Quantum Algorithms](#quantum-algorithms) | [Quantum Complexity](#quantum-complexity) |
+| [Quantum Programming Languages](#quantum-programming-languages) | [Quantum Programming Tutorials](#quantum-programming-tutorials) |
+| [Quantum Programming Hackathons](#quantum-programming-hackathons) | [Books for Learning Quantum Programming](#books-for-learning-quantum-programming) |
+| [Articles and Blogs](#articles-and-blogs) | [Quantum Programming Simulators](#quantum-programming-simulators) |
+| [Hands-On Exercises](#hands-on-exercises) | [Community and Forums](#community-and-forums) |
+| [Online Courses](#online-courses) | 
 
-## Introduction to Quantum Computing
+## Introduction to Quantum Computing Fundamentals
 
 - [Quantum Computing Explained](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/): An overview by IBM introducing the fundamental concepts of quantum computing.
 - [Qiskit Textbook](https://qiskit.org/textbook/preface.html): A comprehensive textbook by Qiskit, covering the basics of quantum computing and programming using Qiskit, IBM's quantum computing framework.

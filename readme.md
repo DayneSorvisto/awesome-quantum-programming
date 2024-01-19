@@ -1,5 +1,7 @@
 # awesome-quantum-programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Quantum programming. A comprehensive list of free resources](quantum_programming.png)
+
 > A curated list of awesome quantum programming algorithms, hackathons, tutorials, books, articles, and other resources for quantum programmers
 
 ## Contents

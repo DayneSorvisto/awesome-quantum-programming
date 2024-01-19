@@ -2,7 +2,14 @@
 
 ![Quantum Programming](quantum_programming.png)
 
-> A meticulously curated collection of exceptional quantum programming algorithms, hackathons, tutorials, books, articles, and various resources tailored for quantum programmers.
+> An up-to-date and meticulously curated collection of exceptional quantum programming algorithms, hackathons, tutorials, books, articles, and various resources tailored for quantum programmers.
+
+> [![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername/awesome-quantum-programming.svg)](https://github.com/YourGitHubUsername/awesome-quantum-programming/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/YourGitHubUsername/awesome-quantum-programming.svg)](https://github.com/YourGitHubUsername/awesome-quantum-programming/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/YourGitHubUsername/awesome-quantum-programming.svg)](https://github.com/YourGitHubUsername/awesome-quantum-programming/pulls)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/YourGitHubUsername/awesome-quantum-programming.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Quantum%20Programming%20repository%20on%20GitHub:%20https://github.com/YourGitHubUsername/awesome-quantum-programming)
+
 
 # Table of Contents
 | <!-- -->                                 | <!-- -->                                             |
